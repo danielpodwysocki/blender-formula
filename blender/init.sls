@@ -1,4 +1,4 @@
-Install dependencies:
+Install blender dependencies:
   pkg.installed:
     - pkgs:
       - xorg
